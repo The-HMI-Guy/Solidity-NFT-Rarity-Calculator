@@ -4,8 +4,8 @@ const path = require("path")
 const axios = require("axios").default
 require('dotenv').config()
 const TIMEOUT = 500
-const CONTRACT_ADDRESS = '0x9A4d952Ff903D6ff19112Af8C38E243a36ae4ded' // CodeCats NFT Collection
-const CHAIN = 'polygon'
+const CONTRACT_ADDRESS = '0xaDC28cac9c1d53cC7457b11CC9423903dc09DDDc' //Sketchy Ape Book Club
+const CHAIN = 'ethereum'
 
 const getRarity = async () => {
   const nfts = []
