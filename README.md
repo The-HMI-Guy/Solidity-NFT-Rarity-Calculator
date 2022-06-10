@@ -1,6 +1,6 @@
 # NFT Rarity Calculator
 
-This project will allow you to calculate rarities from any NFT Collection on the Ethereum or Polygon networks.
+This project will allow you to calculate rarities from any NFT Collection on the Ethereum or Polygon networks..
 
 ## Video Walkthrough
 
