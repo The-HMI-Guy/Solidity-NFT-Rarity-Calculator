@@ -4,7 +4,7 @@ const path = require("path")
 const axios = require("axios").default
 require('dotenv').config()
 const TIMEOUT = 500
-const CONTRACT_ADDRESS = '0xaDC28cac9c1d53cC7457b11CC9423903dc09DDDc' //Sketchy Ape Book Club
+const CONTRACT_ADDRESS = '0xD4DA8D3ac73E519962C4455DC32c067af8D347F2' //Sketchy Ape Book Club
 const CHAIN = 'ethereum'
 
 const getRarity = async () => {
